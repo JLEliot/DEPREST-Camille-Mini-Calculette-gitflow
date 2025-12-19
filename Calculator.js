@@ -7,7 +7,7 @@ function soustraction(a, b) {
   }
   
 function multiplication(a, b) {
-    // TODO
+    return a * b;
   }
   
   // --- UI ---
