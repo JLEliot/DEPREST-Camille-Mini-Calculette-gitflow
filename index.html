@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mini Calculette</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="card">
+    <h1>Mini calculette</h1>
+
+    <div class="grid">
+      <label>
+        Nombre 1
+        <input id="a" type="number" step="any" />
+      </label>
+
+      <label>
+        Nombre 2
+        <input id="b" type="number" step="any" />
+      </label>
+
+      <label>
+        Opération
+        <select id="op">
+          <option value="add">Addition</option>
+          <option value="sub">Soustraction</option>
+          <option value="mul">Multiplication</option>
+        </select>
+      </label>
+
+      <button id="btn">Calculer</button>
+    </div>
+
+    <p class="resultat">
+      Résultat : <strong id="result">—</strong>
+    </p>
+  </main>
+
+  <script src="Calculator.js"></script>
+</body>
+</html>
