@@ -4,7 +4,7 @@
 Calculette web simple (HTML/CSS/JS) avec 3 opérations.
 
 ## Fonctionnalités
-- [ ] Addition
+- ✅ Addition (a + b)
 - ✅ Soustraction (a - b)
 - [ ] Multiplication
 
