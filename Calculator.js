@@ -1,5 +1,5 @@
 function addition(a, b) {
-    // TODO
+    return a + b;
   }
   
   function soustraction(a, b) {
