@@ -2,11 +2,11 @@ function addition(a, b) {
     return a + b;
   }
   
-  function soustraction(a, b) {
-    // TODO
+function soustraction(a, b) {
+    return a - b;
   }
   
-  function multiplication(a, b) {
+function multiplication(a, b) {
     // TODO
   }
   

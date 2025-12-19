@@ -4,8 +4,8 @@
 Calculette web simple (HTML/CSS/JS) avec 3 opérations.
 
 ## Fonctionnalités
-- ✅ Addition (a + b)
-- [ ] Soustraction
+- [ ] Addition
+- ✅ Soustraction (a - b)
 - [ ] Multiplication
 
 ## Utilisation
