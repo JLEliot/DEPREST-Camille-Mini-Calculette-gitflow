@@ -10,3 +10,5 @@ Calculette web simple (HTML/CSS/JS) avec 3 opérations.
 
 ## Utilisation
 Ouvrir `index.html` dans un navigateur.
+
+Dernière mise à jour : branche A
